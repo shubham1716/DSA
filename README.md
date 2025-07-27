@@ -11,4 +11,8 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham1716/DSA/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/shubham1716/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
