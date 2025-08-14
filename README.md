@@ -7,6 +7,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham1716/DSA/tree/master/0001-two-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubham1716/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
