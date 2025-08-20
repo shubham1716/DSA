@@ -8,6 +8,7 @@ my first repo in 2025.
 | ------- |
 | [0001-two-sum](https://github.com/shubham1716/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham1716/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shubham1716/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shubham1716/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham1716/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shubham1716/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubham1716/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
@@ -49,5 +51,6 @@ my first repo in 2025.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shubham1716/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
