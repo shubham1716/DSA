@@ -25,6 +25,7 @@ my first repo in 2025.
 | [0485-max-consecutive-ones](https://github.com/shubham1716/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shubham1716/DSA/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/shubham1716/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubham1716/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -62,6 +63,7 @@ my first repo in 2025.
 | ------- |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
