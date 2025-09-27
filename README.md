@@ -9,6 +9,7 @@ my first repo in 2025.
 | [0001-two-sum](https://github.com/shubham1716/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham1716/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shubham1716/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/shubham1716/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubham1716/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shubham1716/DSA/tree/master/0054-spiral-matrix) |
@@ -62,6 +63,7 @@ my first repo in 2025.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
