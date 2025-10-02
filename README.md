@@ -49,6 +49,7 @@ my first repo in 2025.
 | [0066-plus-one](https://github.com/shubham1716/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
+| [3336-water-bottles-ii](https://github.com/shubham1716/DSA/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubham1716/DSA/tree/master/0054-spiral-matrix) |
+| [3336-water-bottles-ii](https://github.com/shubham1716/DSA/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
 | ------- |
