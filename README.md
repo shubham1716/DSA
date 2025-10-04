@@ -26,6 +26,7 @@ my first repo in 2025.
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/shubham1716/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/shubham1716/DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham1716/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ my first repo in 2025.
 | [0283-move-zeroes](https://github.com/shubham1716/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ my first repo in 2025.
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham1716/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shubham1716/DSA/tree/master/0907-koko-eating-bananas) |
@@ -85,6 +88,7 @@ my first repo in 2025.
 | [0075-sort-colors](https://github.com/shubham1716/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shubham1716/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,4 +121,12 @@ my first repo in 2025.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shubham1716/DSA/tree/master/0724-find-pivot-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
