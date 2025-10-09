@@ -35,6 +35,7 @@ my first repo in 2025.
 | [0907-koko-eating-bananas](https://github.com/shubham1716/DSA/tree/master/0907-koko-eating-bananas) |
 | [1791-richest-customer-wealth](https://github.com/shubham1716/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubham1716/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/shubham1716/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ my first repo in 2025.
 | ------- |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/shubham1716/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ my first repo in 2025.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shubham1716/DSA/tree/master/0724-find-pivot-index) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/shubham1716/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Sliding Window
 |  |
 | ------- |
