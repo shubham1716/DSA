@@ -62,6 +62,7 @@ my first repo in 2025.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham1716/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shubham1716/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shubham1716/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/shubham1716/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shubham1716/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -71,6 +72,7 @@ my first repo in 2025.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shubham1716/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
