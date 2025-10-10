@@ -73,6 +73,7 @@ my first repo in 2025.
 | ------- |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/shubham1716/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 |  |
@@ -140,4 +141,8 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
