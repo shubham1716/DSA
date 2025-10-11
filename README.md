@@ -76,6 +76,7 @@ my first repo in 2025.
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/shubham1716/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Binary Search
 |  |
@@ -128,6 +129,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shubham1716/DSA/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3336-water-bottles-ii](https://github.com/shubham1716/DSA/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
@@ -147,4 +149,5 @@ my first repo in 2025.
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
