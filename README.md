@@ -46,6 +46,7 @@ my first repo in 2025.
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubham1716/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ my first repo in 2025.
 | [0125-valid-palindrome](https://github.com/shubham1716/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
+| [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/shubham1716/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -102,6 +104,7 @@ my first repo in 2025.
 | [0217-contains-duplicate](https://github.com/shubham1716/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
+| [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
 ## Divide and Conquer
 |  |
 | ------- |
