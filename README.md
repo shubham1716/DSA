@@ -21,6 +21,7 @@ my first repo in 2025.
 | [0136-single-number](https://github.com/shubham1716/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shubham1716/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shubham1716/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubham1716/DSA/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ my first repo in 2025.
 | [0048-rotate-image](https://github.com/shubham1716/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shubham1716/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [3336-water-bottles-ii](https://github.com/shubham1716/DSA/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
@@ -153,4 +155,12 @@ my first repo in 2025.
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
