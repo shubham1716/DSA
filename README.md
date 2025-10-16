@@ -7,6 +7,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shubham1716/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shubham1716/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham1716/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shubham1716/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ my first repo in 2025.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shubham1716/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/shubham1716/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shubham1716/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
@@ -168,4 +170,8 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shubham1716/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
