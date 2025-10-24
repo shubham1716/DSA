@@ -27,6 +27,7 @@ my first repo in 2025.
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shubham1716/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubham1716/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shubham1716/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ my first repo in 2025.
 | [0217-contains-duplicate](https://github.com/shubham1716/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shubham1716/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shubham1716/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shubham1716/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
@@ -74,6 +76,7 @@ my first repo in 2025.
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham1716/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0953-reverse-only-letters](https://github.com/shubham1716/DSA/tree/master/0953-reverse-only-letters) |
@@ -98,6 +101,7 @@ my first repo in 2025.
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham1716/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -116,6 +120,7 @@ my first repo in 2025.
 | [0217-contains-duplicate](https://github.com/shubham1716/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shubham1716/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
 ## Divide and Conquer
