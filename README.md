@@ -22,6 +22,7 @@ my first repo in 2025.
 | [0118-pascals-triangle](https://github.com/shubham1716/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham1716/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shubham1716/DSA/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/shubham1716/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shubham1716/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
@@ -146,6 +147,7 @@ my first repo in 2025.
 | [0053-maximum-subarray](https://github.com/shubham1716/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shubham1716/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubham1716/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/shubham1716/DSA/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
