@@ -13,6 +13,7 @@ my first repo in 2025.
 | [0027-remove-element](https://github.com/shubham1716/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shubham1716/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shubham1716/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shubham1716/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubham1716/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shubham1716/DSA/tree/master/0054-spiral-matrix) |
@@ -106,6 +107,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shubham1716/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
