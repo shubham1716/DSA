@@ -67,6 +67,7 @@ my first repo in 2025.
 | [0009-palindrome-number](https://github.com/shubham1716/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shubham1716/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shubham1716/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/shubham1716/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ my first repo in 2025.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham1716/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shubham1716/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubham1716/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubham1716/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
