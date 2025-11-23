@@ -41,6 +41,7 @@ my first repo in 2025.
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/shubham1716/DSA/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shubham1716/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham1716/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shubham1716/DSA/tree/master/0907-koko-eating-bananas) |
 | [1791-richest-customer-wealth](https://github.com/shubham1716/DSA/tree/master/1791-richest-customer-wealth) |
@@ -121,6 +122,7 @@ my first repo in 2025.
 | [0540-single-element-in-a-sorted-array](https://github.com/shubham1716/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shubham1716/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham1716/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/shubham1716/DSA/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
