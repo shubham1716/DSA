@@ -104,6 +104,7 @@ my first repo in 2025.
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
 | [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/shubham1716/DSA/tree/master/0953-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/shubham1716/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shubham1716/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -191,6 +192,7 @@ my first repo in 2025.
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shubham1716/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubham1716/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubham1716/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Enumeration
