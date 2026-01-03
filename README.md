@@ -102,6 +102,7 @@ my first repo in 2025.
 | [0344-reverse-string](https://github.com/shubham1716/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shubham1716/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/shubham1716/DSA/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/shubham1716/DSA/tree/master/0796-rotate-string) |
 | [0807-custom-sort-string](https://github.com/shubham1716/DSA/tree/master/0807-custom-sort-string) |
 | [0953-reverse-only-letters](https://github.com/shubham1716/DSA/tree/master/0953-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/shubham1716/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -211,6 +212,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubham1716/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shubham1716/DSA/tree/master/0796-rotate-string) |
 ## Database
 |  |
 | ------- |
