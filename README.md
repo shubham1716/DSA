@@ -72,6 +72,7 @@ my first repo in 2025.
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/shubham1716/DSA/tree/master/0367-valid-perfect-square) |
 | [3336-water-bottles-ii](https://github.com/shubham1716/DSA/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ my first repo in 2025.
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shubham1716/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/shubham1716/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubham1716/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/shubham1716/DSA/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/shubham1716/DSA/tree/master/0792-binary-search) |
