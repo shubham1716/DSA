@@ -71,6 +71,7 @@ my first repo in 2025.
 | [0069-sqrtx](https://github.com/shubham1716/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shubham1716/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shubham1716/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/shubham1716/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shubham1716/DSA/tree/master/0367-valid-perfect-square) |
 | [3336-water-bottles-ii](https://github.com/shubham1716/DSA/tree/master/3336-water-bottles-ii) |
@@ -135,6 +136,7 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shubham1716/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shubham1716/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shubham1716/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shubham1716/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -221,4 +223,8 @@ my first repo in 2025.
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/shubham1716/DSA/tree/master/0196-delete-duplicate-emails) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shubham1716/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
